@@ -2,7 +2,7 @@
 
 Personal portfolio of Ansh Srivastava, Software Development Engineer in Test (SDET) with 2.5+ years of experience across Web, API and Mobile testing.
 
-**Live site:** https://anshhhh05.github.io/portfolio/
+**Live site:** https://anshhhh05.github.io/Portfolio/
 
 ## Highlights
 - Test automation with Selenium WebDriver, Playwright and Appium (Java, TypeScript, Python)
